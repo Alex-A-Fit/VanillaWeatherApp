@@ -1,0 +1,121 @@
+.weatherBG {
+    background-image: url("../background/sky2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.favoritesStyling {
+    font-size: 30px;
+    color: black;
+    background: rgba(254, 255, 254, 0.2);
+    border: none;
+}
+
+.dropdownForFavoritesBG {
+    background: rgba(254, 255, 254, 0.2);
+    border: none;
+}
+
+.dropdownFavSize{
+    font-size: 25px;
+}
+
+.searchIcon {
+    background: rgba(254, 255, 254, 0);
+    border: none;
+    font-size: 40px;
+}
+
+.searchText {
+    font-size: 25px;
+    margin-right: 20%;
+    background: rgba(254, 255, 254, 0.2);
+    color: black;
+    border: none;
+}
+
+.currentWeather {
+    background: rgba(254, 255, 254, 0.2);
+    color: black;
+    border: none;
+}
+
+.currentDegrees {
+    font-size: 80px;
+    font-weight: 400;
+}
+
+.aligningCurrentWeather {
+    display: flex;
+    justify-content: center;
+}
+
+.push {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.starSize {
+    font-size: 30px;
+}
+
+.threeHourWeatherBG {
+    background: rgba(254, 255, 254, 0.2);
+    color: black;
+    border: none;
+}
+
+.threeHourWeatherMorn {
+    display: flex;
+    justify-content: start;
+    padding-left: 5%;
+}
+
+.threeHourWeatherNoon {
+    display: flex;
+    justify-content: center;
+}
+
+.threeHourWeatherEve {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5%;
+}
+
+.adjustMornDesc {
+    padding-left: 25%;
+}
+
+.adjustEveDesc {
+    padding-right: 4%;
+}
+
+.adjustMornTemp {
+    padding-left: 3%;
+    font-size: 30px;
+}
+
+.adjustNoonTemp {
+    font-size: 30px;
+}
+
+.adjustEveTemp {
+    padding-right: 3%;
+    font-size: 30px;
+}
+
+.sevenDayForecast {
+    background: rgba(254, 255, 254, 0.3);
+    color: black;
+    border: none;
+    font-size: 30px;
+}
+.sevenDayForecastPosition{
+    margin-top: 4%;
+}
+
+.fa-star{
+   color:rgba(0, 0, 0, 1);
+}
+
